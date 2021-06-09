@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+ -  rice
+ -  computers
+     -  video games
+         - veloren
+         - league of legends
+         - portal 
+     -  computer sciences
+     -  programming
