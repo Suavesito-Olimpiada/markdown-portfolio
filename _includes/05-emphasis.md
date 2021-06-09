@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I think I'm a very _funny_ person.
+People often ssay about me that I'm **intelligent**, but I like to say that I'm just _**dedicated**_.
+_Coocking_ is an activity that I feel confortable with, make **delicious** dishes. 
