@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Dorime cat enlightened](https://i.ytimg.com/vi/7SpjQg_Ipwk/hqdefault.jpg)
